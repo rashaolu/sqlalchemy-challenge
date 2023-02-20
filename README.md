@@ -1,6 +1,6 @@
 ## This challenge looks at the climate analysis in Honoulu Hawaii ##
 
-## Part 1: Percipitatiom Analysis ###
+## Part 1: Percipitation Analysis ###
 ### Find the most recent date in the dataset.
 
 ### Using that date, get the previous 12 months of precipitation data by querying the previous 12 months of data.
