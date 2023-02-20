@@ -1,4 +1,4 @@
-## This challenge looks at the climate analysis is Honoulu Hawaii ##
+## This challenge looks at the climate analysis in Honoulu Hawaii ##
 
 ## Part 1: Percipitatiom Analysis ###
 ### Find the most recent date in the dataset.
